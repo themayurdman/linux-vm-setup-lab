@@ -54,10 +54,13 @@ rmdir
 Example Project Structure
 
 Project/
-
+|
 ├── Docs/
+|    |
 │    └── report.txt
+|
 └── Media/
+
 ⸻
 
 Learning Outcomes
