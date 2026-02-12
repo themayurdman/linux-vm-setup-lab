@@ -1,38 +1,84 @@
-# Linux VM Setup & File Management Lab
+Linux VM Setup & File Management Lab
 
-## Overview
-This project demonstrates the complete setup of a Linux Virtual Machine (VM) and execution of essential Linux file management commands.
+Overview
 
-The objective was to gain hands-on experience with Linux environments, SSH connections, and terminal-based operations commonly required in IT and cybersecurity programs.
+This repository demonstrates a complete step-by-step setup of an Ubuntu Linux virtual machine (VM) and essential file management operations using the Linux terminal.
 
----
+It serves as proof of hands-on experience with Linux environments, SSH access, and command-line operations commonly used in IT, Cloud, and Cybersecurity labs.
 
-## Environment Used
-- VirtualBox / VMware
-- Ubuntu Linux
-- Windows Host Machine
-- PuTTY (SSH Client)
+⸻
 
----
+Tools & Environment Used
+	•	VirtualBox or VMware
+	•	Ubuntu Linux
+	•	Windows Host System
+	•	PuTTY (SSH Client)
+	•	Linux Terminal (CLI)
 
-## Tasks Performed
+⸻
 
-### 1. Virtual Machine Setup
-- Installed and configured Ubuntu Linux VM
-- Allocated system resources
-- Verified successful boot and login
+Work Performed
 
-### 2. SSH Connection
-- Configured network settings
-- Connected to VM using PuTTY
-- Verified remote terminal access
+1. Virtual Machine Installation
+	•	Installed Ubuntu Linux on a virtual machine
+	•	Allocated system resources
+	•	Configured networking
+	•	Verified successful boot and login
 
-### 3. Directory & File Operations
-- Created project directories
-- Navigated using `cd`
-- Listed contents using `ls`
-- Checked path using `pwd`
-- Moved files using `mv`
-- Removed directories using `rmdir`
+2. SSH Setup
+	•	Configured VM network settings
+	•	Connected to VM using PuTTY
+	•	Verified remote terminal access
 
-### 4. Project Structure Example
+3. Linux File & Directory Operations
+	•	Created directories
+	•	Navigated file system using cd
+	•	Listed contents using ls
+	•	Checked current directory using pwd
+	•	Moved files using mv
+	•	Removed directories using rmdir
+
+⸻
+
+Commands Practiced
+
+mkdir
+cd
+ls
+pwd
+mv
+rmdir
+
+⸻
+
+Example Project Structure
+
+Project/
+├── Docs/
+│    └── report.txt
+└── Media/
+
+⸻
+
+Learning Outcomes
+	•	Understanding Linux file system structure
+	•	Gained confidence using command-line interface
+	•	Practical SSH connection experience
+	•	Improved system navigation and file management skills
+
+⸻
+
+Why This Project Matters
+
+These foundational skills are important for:
+	•	Linux system administration
+	•	Cloud computing environments
+	•	DevOps workflows
+	•	Cybersecurity labs
+
+⸻
+
+Author
+
+Mayurkumar Maniya
+IT Graduate Student | Linux | Python | SQL | Cloud
